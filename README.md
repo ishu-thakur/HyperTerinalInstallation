@@ -7,4 +7,6 @@ Go to https://hyper.is
 
 
 Click on download hyper button
-Opne the downloaded Hyper setup
+
+
+Open the downloaded Hyper setup
