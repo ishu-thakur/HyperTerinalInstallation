@@ -9,4 +9,12 @@ Go to https://hyper.is
 Click on download hyper button
 
 
-Open the downloaded Hyper setup
+Open the downloaded Hyper setup and click on install
+
+![image](https://user-images.githubusercontent.com/45738614/127743250-6fdfe3bd-4435-4ccf-a0d2-eb44774097d1.png)
+
+
+
+Click finish an enjoy Coding 
+![image](https://user-images.githubusercontent.com/45738614/127743277-5f726f6a-8361-4d6c-bd93-e6b16f36d0d5.png)
+
