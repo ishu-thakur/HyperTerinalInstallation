@@ -1,4 +1,4 @@
-# HyperTerinalInstallation
+# HyperTerminalInstallation
 How to Install Hyper Terminal in Windows
 
 Go to https://hyper.is 
